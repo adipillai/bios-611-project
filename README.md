@@ -2,22 +2,23 @@
 
 ## Introduction
 
-This is where I introduce the dataset and the project. 
+This short project involves the completion of exploratory data analysis on COVID-19 in India. This repository contains the source data, code, as well as the results of this analysis, all of which should be able to be accessable and viewable to anyone with the software Docker installed. 
 
 ## Source data
 
-### Environmental indicator data
+### COVID-19 India Statewise data
 
-The environmental indicator source data used in this analysis come from the United Nations Statistics Division (UNSD) / United Nations Environment Programme (UNEP) Questionairre on Environment Statistics and were downloaded via Kaggle: https://www.kaggle.com/ruchi798/global-environmental-indicators (last updated June 5, 2021). These data span many types of environmental indicators by country, including:     
+The COVID-19 India Statewise source data used in this analysis came from the Indian Government's citizen engagement platform, MyGov (https://www.mygov.in/covid-19) and the India statewise population data came from an Indian census website (https://www.indiacensus.net/). The dataset of interest was downloaded via Kaggle: https://www.kaggle.com/anandhuh/latest-covid19-india-statewise-data(last updated December 5, 2021). These data span many attributes / factors related to COVID-19 such as:
 
-	* Air and Climate     
-	* Biodiversity     
-	* Energy   
-	* Forest      
-	* Inland Water Resources     
-	* Land and Agriculture     
-	* Natural Disasters     
-	* Waste     
+	* States/UTs - Names of Indian States and Union Territories     
+	* Total Cases - Total number of confirmed cases
+	* Active - Total number of active cases
+	* Discharged - Total number of discharged cases   
+	* Deaths - Total number of deaths
+	* Active Ratio (%) - Ratio of number of active cases to total cases     
+	* Discharge Ratio (%) - Ratio of number of discharged cases to total cases     
+	* Death Ratio (%) - Ratio of number of deaths to total cases
+	* Population - Population of State/UT
 
 
 ## Analysis
