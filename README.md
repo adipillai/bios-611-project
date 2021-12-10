@@ -25,13 +25,13 @@ The COVID-19 India Statewise source data used in this analysis came from the Ind
 
 This analysis takes three primary forms:
 
-  **1. Indicator data trends by country**. This analysis is carried out in the shiny app, where a user can select a country and view many types of plots displaying indicator data trends.     
+  **1. COVID-19 Data by State**. This analysis is carried out in the shiny app, where a user can select a state and view geographical data trends in an interactive format.     
   
-  **2. Indicator data trends between all countries**. Various analyses are carried out that search for indicator trends among all available countries.      
+  **2. Exploratory data analysis**. Various analyses are run to investigate correlations and understand the relationship between parameters and factors       
   
-  **3. Prediction of happiness and GDP level from environmental indicator data**. Two elastic net predictive models were generated to predict high/low happiness level and high/low GDP level from environmental indicator.     
+  **3. Machine Learning methods**. DESCRIPTION of ML methods here...    
   
-More detailed descriptions about the analyses for this project were carried out, along with summaries of their results, can be found in the project report (report.pdf).
+A more in-depth walk-through of the types of analyses carried out for this project, along with summaries of their results, can be found in the project report (report.pdf).
 
 ## Docker
 
