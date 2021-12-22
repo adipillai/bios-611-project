@@ -1,0 +1,38 @@
+Country,ISO_Code,Level,GDLCODE,Region,"Sub-national HDI","Health index","Educational index ","Income index"
+"India","IND","National","INDt","Total",0.646,0.765,0.556,0.635
+"India","IND","Subnat","INDr136","Andaman and Nicobar Islands",0.741,0.861,0.651,0.727
+"India","IND","Subnat","INDr101","Andhra Pradesh",0.649,0.772,0.535,0.662
+"India","IND","Subnat","INDr125","Arunachal Pradesh",0.661,0.807,0.547,0.653
+"India","IND","Subnat","INDr102","Assam",0.613,0.751,0.541,0.567
+"India","IND","Subnat","INDr103","Bihar",0.574,0.750,0.481,0.525
+"India","IND","Subnat","INDr131","Chandigarth",0.776,0.820,0.726,0.785
+"India","IND","Subnat","INDr129","Chhattisgarh",0.611,0.725,0.531,0.593
+"India","IND","Subnat","INDr132","Dadra and Nagar Haveli",0.663,0.805,0.568,0.638
+"India","IND","Subnat","INDr134","Daman and Diu",0.708,0.812,0.611,0.717
+"India","IND","Subnat","INDr104","Goa",0.763,0.850,0.680,0.767
+"India","IND","Subnat","INDr105","Gujarat",0.672,0.784,0.556,0.698
+"India","IND","Subnat","INDr106","Haryana",0.708,0.795,0.609,0.734
+"India","IND","Subnat","INDr107","Himachal Pradesh",0.725,0.796,0.652,0.734
+"India","IND","Subnat","INDr108","Jammu and Kashmir",0.688,0.802,0.586,0.694
+"India","IND","Subnat","INDr128","Jharkhand",0.598,0.753,0.512,0.554
+"India","IND","Subnat","INDr109","Karnataka",0.683,0.817,0.584,0.669
+"India","IND","Subnat","INDr110","Kerala",0.782,0.876,0.725,0.752
+"India","IND","Subnat","INDr135","Lakshadweep",0.751,0.825,0.683,0.752
+"India","IND","Subnat","INDr111","Madhya Pradesh",0.603,0.730,0.509,0.592
+"India","IND","Subnat","INDr112","Maharashtra",0.697,0.818,0.611,0.677
+"India","IND","Subnat","INDr113","Manipur",0.697,0.822,0.668,0.617
+"India","IND","Subnat","INDr114","Meghalaya",0.656,0.792,0.572,0.623
+"India","IND","Subnat","INDr115","Mizoram",0.704,0.763,0.634,0.723
+"India","IND","Subnat","INDr116","Nagaland",0.679,0.806,0.598,0.650
+"India","IND","Subnat","INDr124","New Delhi",0.746,0.814,0.675,0.757
+"India","IND","Subnat","INDr117","Orissa",0.605,0.755,0.518,0.566
+"India","IND","Subnat","INDr133","Puducherry",0.740,0.834,0.671,0.724
+"India","IND","Subnat","INDr118","Punjab",0.724,0.804,0.622,0.758
+"India","IND","Subnat","INDr119","Rajasthan",0.628,0.763,0.505,0.643
+"India","IND","Subnat","INDr120","Sikkim",0.717,0.825,0.616,0.723
+"India","IND","Subnat","INDr121","Tamil Nadu",0.709,0.831,0.627,0.683
+"India","IND","Subnat","INDr130","Telangana",0.669,0.786,0.564,0.675
+"India","IND","Subnat","INDr126","Tripura",0.658,0.813,0.591,0.593
+"India","IND","Subnat","INDr123","Uttar Pradesh",0.594,0.703,0.515,0.579
+"India","IND","Subnat","INDr127","Uttaranchal",0.683,0.771,0.610,0.678
+"India","IND","Subnat","INDr122","West Bengal",0.641,0.800,0.546,0.603

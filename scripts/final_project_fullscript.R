@@ -1,4 +1,18 @@
-read.csv("/Users/adipillai/Desktop/bios-611-project/source_data/covid19_data.csv")
-data <- read.csv("/Users/adipillai/Desktop/bios-611-project/source_data/covid19_data.csv")
-head(data)
-install.packages("tidyverse")
+install.packages("tidyverse") # installing tidyverse
+library(tidyverse) # setting up library 
+data <- read.csv("/Users/adipillai/Desktop/bios-611-project/source_data/covid19_data.csv") # reading in data 
+mydata <- as.tibble(data) # converting to tidyverse df format 
+mydata # taking a look at it 
+
+mydata %>% 
+  rename(
+    states_uts = State.UTs,
+    total_cases = Total.Cases,
+    active_ratio = Active.Ratio,
+    discharge_ratio = Discharge.Ratio,
+    death_ratio = Death.Ratio
+  ) ## renaming column names 
+
+## Some basic data analysis 
+
+

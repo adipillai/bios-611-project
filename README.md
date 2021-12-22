@@ -20,6 +20,12 @@ The COVID-19 India Statewise source data used in this analysis came from the Ind
 	* Death Ratio (%) - Ratio of number of deaths to total cases
 	* Population - Population of State/UT
 
+The Human Development Indices source data used in this analyis came from the Global Data Lab website (https://globaldatalab.org/shdi/2019/human-development/IND/?levels=1%2B4&interpolation=1&extrapolation=0&nearest_real=0). These data evaluate four different factors or indicators relating to human development, numerically represented as decimals from 0 to 1: 
+
+	* Sub-national HDI - Combined measure of the Health, Educational, and Income Indicess
+	* Health Index - Life Expectancy Statistic
+	* Educational Index - Mean Years of Schooling Statistic
+	* Income Index - Gross Sub-National Income Statistic
 
 ## Analysis
 
