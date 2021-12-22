@@ -94,9 +94,9 @@ make report.pdf
 
 **Make an individual file**     
 
-To make an individual file of interest from the source data that is listed as a target in the Makefile, run the following command in your terminal, substituting `figures/paired_indicators.png` for the file of interest:     
+To make an individual file of interest from the source data that is listed as a target in the Makefile, run the following command in your terminal, substituting `filepath` with the directory path to the file of interest:     
 ```
-make figures/paired_indicators.png
+make filepath
 ```
 
 **Clean all derived data**
