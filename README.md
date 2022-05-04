@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This short project involves the completion of exploratory data analysis on COVID-19 in India. This repository contains the source data, code, as well as the results of this analysis, all of which should be able to be accessable and viewable to anyone with the software Docker installed. 
+This short analysis project involves the completion of exploratory data analysis on COVID-19 in India. This repository contains the source data, code, as well as the results of this analysis, all of which should be able to be accessable and viewable to anyone with the software Docker installed. 
 
 ## Source data
 
