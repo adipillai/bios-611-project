@@ -68,7 +68,7 @@ docker run -e PASSWORD=password_you_choose \
 -t project-env
 ```     
 
-Then, to connect to the machine on port 8787, enter localhost:8787 in your browser. Enter 'rstudio' as the username along with the unique password you created. You will need to navigate to the `project` directory by entering `setwd("~/project")` in the R console and `cd ~/project` in the Terminal.
+Then, to connect to the machine on port 8787, enter localhost:8787 in your browser. Enter 'rstudio' as the username along with the unique password you just created. You will need to navigate to the `project` directory by entering `setwd("~/project")` in the R console and `cd ~/project` in the Terminal.
 
 
 ## Makefile
