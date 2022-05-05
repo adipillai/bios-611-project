@@ -11,3 +11,6 @@ derived_data/joined_and_cleaned.csv: source_data/covid19_data.csv source_data/gd
 ##	the-recipe
 figures/hdi-vs-death-pct.png: derived_data/joined_and_cleaned.csv scripts/hdi-vs-death-pct.R
 	Rscript scripts/hdi-vs-death-pct.R
+
+figures/correlation-map.pdf: derived_data/joined_and_cleaned.csv scripts/correlation-map.R
+	Rscript scripts/correlation-map.R

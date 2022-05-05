@@ -3,7 +3,7 @@ library(tidyverse)
 data <- read_csv("derived_data/joined_and_cleaned.csv") %>%
   mutate(pct_deaths=deaths/population);
 
-the_plot <- ggplot(data, aes(pct_deaths, hdi)) + geom_point();
+the_plot <- ggplot(data, aes(pct_deaths, hdi)) + geom_point() + ggtitle("HDI by Death Rate");
 
 if(!dir.exists('figures')) dir.create('figures');
 
