@@ -14,3 +14,7 @@ figures/hdi-vs-death-pct.png: derived_data/joined_and_cleaned.csv scripts/hdi-vs
 
 figures/correlation-map.pdf: derived_data/joined_and_cleaned.csv scripts/correlation-map.R
 	Rscript scripts/correlation-map.R
+	
+figures/bubble-plot.png: derived_data/joined_and_cleaned.csv scripts/bubble-map.R
+	Rscript scripts/bubble-map.R
+	
